@@ -2,7 +2,7 @@
 
 ### Python | Machine Learning | Data Science | C++
 
-I'm a BTech student passionate about **Python, Machine Learning, Data Science, and problem solving**.
+I'm a B.Tech student passionate about **Python, Machine Learning, Data Science, and problem solving**.
 I enjoy building practical projects and improving my programming and DSA skills.
 
 ---
