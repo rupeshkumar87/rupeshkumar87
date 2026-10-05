@@ -1,8 +1,8 @@
 # Hi, I'm Rupesh Kumar 👋
 
-### Python | Machine Learning | Data Science | C++
+### Python | Machine Learning | Data Science | C++ | DSA
 
-I'm a B.Tech student passionate about **Python, Machine Learning, Data Science, and problem solving**.
+I'm a B.Tech student passionate about ** C++,Python, Machine Learning, Data Science, and problem solving**.
 I enjoy building practical projects and improving my programming and DSA skills.
 
 ---
@@ -24,7 +24,7 @@ I enjoy building practical projects and improving my programming and DSA skills.
 **Languages**
 
 * Python
-* C++
+* C\C++ 
 * SQL
 
 **Data Science & ML**
